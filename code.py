@@ -4,7 +4,7 @@ print('Olá, Mundo!')
 print(2020)
 print(1 + 1)
 
-# operações matemáticas (toda divisão gera um número decimal (conhecidos como float ou números com ponto flutuante)
+# operações matemáticas (toda divisão gera um número decimal conhecidos como float ou números com ponto flutuante)
 
 1 + 1
 10 - 5
